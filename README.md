@@ -1,2 +1,1 @@
-# ProjetoWEB
-ProjetoWEB
+Os arquivos são o projeto contendo o back-end sendo a pasta "Projeto-WEB" que foi feito com o banco de dados do postgres(pgamdin) e o "projeto" sendo o front-end do projeto. Utilizando React e Bootstrap. 
